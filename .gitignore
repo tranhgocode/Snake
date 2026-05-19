@@ -1,0 +1,44 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor and IDE user state
+.vs/
+.vscode/
+*.suo
+*.user
+*.atsuo
+
+# Atmel Studio / AVR build output
+[Dd]ebug/
+[Rr]elease/
+*.d
+*.o
+*.obj
+*.elf
+*.eep
+*.hex
+*.lss
+*.lst
+*.map
+*.srec
+*.sym
+
+# Proteus local state and backups
+Project Backups/
+*.workspace
+*.pdsprj.*.workspace
+*.pdsbak
+*.bak
+*.tmp
+
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.venv/
+venv/
+env/
+
